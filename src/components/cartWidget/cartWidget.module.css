@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.numberContainer {
+    height: 50px;
+    width: 50px;
+}
+
+.number{
+    color: black;
+    font-size: 1.5rem;
+    margin: 0;
+}
